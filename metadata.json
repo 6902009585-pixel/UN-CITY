@@ -1,0 +1,7 @@
+{
+  "name": "ระบบจัดการการเรียน ม.รามคำแหง (RU Study Hub)",
+  "description": "ระบบบริหารจัดการการเรียน มหาวิทยาลัยรามคำแหง ครบวงจร ทั้งลงทะเบียน ตารางเรียน ตารางสอบ เกรด รีเกรด ตรวจสอบการจบ และซิงค์ Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
